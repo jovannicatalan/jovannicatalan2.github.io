@@ -7,3 +7,6 @@ Hi, my name is Jovanni. I'm currently in the Statistics Master's program at NC S
 -
 I will be blogging about topics in my ST 558 Data Science in R course.
 
+![Image](Landscape-Color.jpg)
+([google](https://www.google.com/?client=safari))
+
