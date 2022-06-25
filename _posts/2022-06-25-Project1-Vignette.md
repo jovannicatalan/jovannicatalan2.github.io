@@ -19,3 +19,7 @@ I think I would of probably chosen an API with more structured data for my first
 to apply the many techniques we learned in class and in a simpler way. Trying to parse the data made my code convoluted and hard to read
 at times.
 
+__Repo Links__:
+[Regular Repo](https://github.com/jovannicatalan/jovannicatalan.github.io)
+[github pages Repo](https://jovannicatalan.github.io/)
+
