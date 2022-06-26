@@ -1,5 +1,5 @@
 ## R code to render RMarkdown file appropriately: ST 558 Project1
-rmarkdown::render('./_Rmd/ST558-Project1-Vignette.Rmd' ,
+rmarkdown::render('./ST558-Project1-Vignette.Rmd' ,
                   output_format = 'github_document',
                   output_file = "README",
                   output_dir = './',
