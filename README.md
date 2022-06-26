@@ -270,7 +270,7 @@ ggplot(locationsByRegion, aes(x=Region)) +
   coord_flip()
 ```
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 ## It seems like the number of locations for each region can vary
