@@ -316,7 +316,7 @@ ggplot(rarePokemonTypesInfo, aes(Weight/10)) +
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 ``` r
 ## From this histogram we can see that there is wide range of weights
@@ -405,7 +405,7 @@ ggplot(grasslandMountainPokemon, aes(Weight)) +
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 ``` r
 ## Plot height histogram for grassland v. mountain pokemon
@@ -416,7 +416,7 @@ ggplot(grasslandMountainPokemon, aes(Height)) +
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
 
 ``` r
 ## It's kind of hard to tell since we have almonst double the observations for grassland pokemon
@@ -476,7 +476,7 @@ ggplot(rarePokemonTypesInfo, aes(Weight, Height), color="blue") +
   labs(title= "Weight vs Height",x = "Pokemon Weight(kg)", y = "Pokemon Height(m)")
 ```
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 ## In this scatterplot we can see that weight and height do seem to be
@@ -545,7 +545,7 @@ ggplot(wrapPokemontib, aes(x = Height)) +
     axis.ticks.x=element_blank())
 ```
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 ggplot(wrapPokemontib, aes(x = Weight)) +
@@ -557,7 +557,7 @@ ggplot(wrapPokemontib, aes(x = Weight)) +
     axis.ticks.x=element_blank())
 ```
 
-![](/Users/jovannicatalan/Desktop/ST558%20-%20Data%20Science%20For%20Statisticians%20(R)/Project/Project%201/jovannicatalan.github.io/README_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
+![](./README_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
 
 ``` r
   ## It seems like based on the boxplots above the pokemon heights
