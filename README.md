@@ -3,17 +3,17 @@ ST558-Project1-Vignette
 Jovanni Catalan Hurtado
 2022-06-23
 
--   [0.1 As part of this Vignette I will be creating some functions to
-    make use of APIs to obtain some data on Pokemon. They will retrieve
-    information on pokemon based on the: **Pokemon Name, Pokemon Shape,
-    Pokemon Type, Region, Move name and Move
-    Type**.](#01-as-part-of-this-vignette-i-will-be-creating-some-functions-to-make-use-of-apis-to-obtain-some-data-on-pokemon-they-will-retrieve-information-on-pokemon-based-on-the-pokemon-name-pokemon-shape-pokemon-type-region-move-name-and-move-type)
+-   [0.1 Intro](#01-intro)
 -   [0.2 Required Packages](#02-required-packages)
 -   [0.3 Functions for each API call](#03-functions-for-each-api-call)
 -   [0.4 EDA](#04-eda)
 
-## 0.1 As part of this Vignette I will be creating some functions to make use of APIs to obtain some data on Pokemon. They will retrieve information on pokemon based on the: **Pokemon Name, Pokemon Shape, Pokemon Type, Region, Move name and Move Type**.
+## 0.1 Intro
 
+-   As part of this Vignette I will be creating some functions to make
+    use of APIs to obtain some data on Pokemon. They will retrieve
+    information on pokemon based on the: **Pokemon Name, Pokemon Shape,
+    Pokemon Type, Region, Move name and Move Type**.
 -   I will be creating numerical and graphical summaries mainly on
     heights and weights of pokemon but also on count of locations by
     region
