@@ -9,7 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
 ```
 ## Intro
-As part of this Vignette I will be creating some functions to make use of APIs to obtain some data on Pokemon. They will retrieve information on pokemon based on the: __Pokemon Name, Pokemon Shape, Pokemon Type, Region, Move name and Move Type__.
+* As part of this Vignette I will be creating some functions to make use of APIs to obtain some data on Pokemon. They will retrieve information on pokemon based on the: __Pokemon Name, Pokemon Shape, Pokemon Type, Region, Move name and Move Type__.
 * I will be creating numerical and graphical summaries mainly on heights and weights of pokemon but also on count of locations by region
 * [PokeAPI](https://pokeapi.co/docs/v2#pokemon) is the source I used for the APIs and data
 
